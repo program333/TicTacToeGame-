@@ -1,2 +1,2 @@
 # TicTacToeGame-
-using Html,Css,Js
+using HTML,CSS,JS
